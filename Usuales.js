@@ -70,7 +70,7 @@ const appN=createApp({
   data() {
     return {
       // url: 'https://lucianapeisina.github.io/Noticias.json',
-      url: 'http://127.0.0.1:5000/productos',
+      url: 'http://exequielsartor.pythonanywhere.com/productos',
       NovedadesAll: [],
       Novedades: [],
       nombres: [],
